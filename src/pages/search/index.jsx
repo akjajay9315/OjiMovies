@@ -7,7 +7,7 @@ import Navbar from "../../components/Header/Navbar.jsx"
 import SearchBar from '../../components/containers/SearchBar.jsx';
 import Card from '../../components/Cards/Card'
 import InfiniteScroll from "react-infinite-scroll-component";
-import Footer from "../../components/Footer/Footer.jsx"
+import Footer from "../../components/footer/Footer.jsx"
 
 const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
 
