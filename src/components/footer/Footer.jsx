@@ -67,7 +67,7 @@ const Footer = () => {
               href="https://OjiMovies-byajaykumar.netlify.app"
               className="hover:underline"
             >
-              MOVIES NOW™
+              OjiMovies™
             </a>
             . All Rights Reserved.
           </span>
