@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/Images/OjiMoviesLogo.png'
+import logo from '../../assets/Images/OjiMovieslogo.png'
 
 import Link from 'next/link'
 import Image from 'next/image'
