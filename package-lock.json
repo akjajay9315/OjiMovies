@@ -1,11 +1,11 @@
 {
-  "name": "moviesnow",
+  "name": "OjiMovies",
   "version": "0.1.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "moviesnow",
+      "name": "OjiMovies",
       "version": "0.1.0",
       "dependencies": {
         "axios": "^1.6.4",

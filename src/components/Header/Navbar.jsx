@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from '../../assets/Images/MoviesNowLogo.png'
+import logo from '../../assets/Images/OjiMoviesLogo.png'
 import { RiSlideshow2Fill } from "react-icons/ri";
 import { HiOutlineUserCircle , HiDotsVertical  } from "react-icons/hi";
 import { FaSearch , FaPlus , FaPlay , FaTv } from "react-icons/fa";
@@ -52,7 +52,7 @@ function Header() {
             >
                 <Image
                     src={logo}
-                    alt="MoviesNow Logo"
+                    alt="OjiMovies Logo"
                     width={9001}
                     height={500}
                     className='w-[150px] md:w-[200px] object-cover'
