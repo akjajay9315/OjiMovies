@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from '../../assets/Images/OjiMoviesLogo.png'
+import logo from '../../assets/Images/OjiMovieslogo.png'
 import { RiSlideshow2Fill } from "react-icons/ri";
 import { HiOutlineUserCircle , HiDotsVertical  } from "react-icons/hi";
 import { FaSearch , FaPlus , FaPlay , FaTv } from "react-icons/fa";

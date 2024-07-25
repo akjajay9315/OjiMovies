@@ -1,8 +1,8 @@
 import Navbar from "../components/Header/Navbar.jsx"
-import Slider from "../components/Slider/Slider.jsx"
+import Slider from "../components/slider/Slider.jsx"
 import OTT_House from "../components/OTT_House/OTT_House.jsx"
 import GenreMovieList from '../components/GenreMovieList/GenreMovieList.jsx'
-import Footer from "../components/Footer/Footer.jsx"
+import Footer from "../components/footer/Footer.jsx"
 
 export default function Home() {
     return (
